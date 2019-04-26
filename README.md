@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/berenar/OnlineOrNot/blob/master/404_error.ico"/>
+</p>
+
 # OnlineOrNot
 
 Script that checks whether a list of websites is online or not.
